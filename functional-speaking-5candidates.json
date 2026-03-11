@@ -1,0 +1,880 @@
+[
+  {
+    "id": "D01",
+    "domain": "expressing_opinions",
+    "domainLabel": "Expressing Opinions",
+    "domainColour": "#C9A961",
+    "topic": "Technology & Social Media",
+    "examPart": "Part 1",
+    "examiner": {
+      "q1": {
+        "id": "D01-EX-Q1",
+        "text": "Do you think social media has had a positive or negative effect on young people's lives?"
+      },
+      "q2": {
+        "id": "D01-EX-Q2",
+        "text": "Some people would argue it actually helps young people stay connected and feel less isolated. What would you say to that?"
+      }
+    },
+    "candidates": [
+      {
+        "name": "Sofia",
+        "level": "B2",
+        "emoji": "👩‍💼",
+        "profileLabel": "Organised · Structured · Clear",
+        "styleCard": [
+          "Open with a clear opinion phrase like 'In my opinion' or 'I think'",
+          "Give one concrete reason to support your view",
+          "Acknowledge the other side briefly before restating your position"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D01-SOF-Q1",
+            "text": "In my opinion, social media has had more of a negative effect on young people. I think the main reason is that it puts a lot of pressure on teenagers to look perfect and get lots of likes. I understand that some people use it to keep in touch with friends, but I really feel that the negatives outweigh the positives when it comes to young people specifically.",
+            "functions": [
+              { "phrase": "In my opinion", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["The way I see it", "From where I stand", "If you ask me"] },
+              { "phrase": "I really feel that", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["I'm convinced that", "I strongly believe that", "I'm fairly certain that"] },
+              { "phrase": "the negatives outweigh the positives", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["the drawbacks are greater than the benefits", "the disadvantages are more significant", "the costs exceed the gains"] }
+            ]
+          },
+          "q2": {
+            "id": "D01-SOF-Q2",
+            "text": "That's a fair point, and I can see why people think that. But I still think online connection isn't the same as real friendship. I know some people say they feel less lonely because of social media, but I'd say most teenagers actually feel more anxious because of it. So on balance, I'd say it does more harm than good.",
+            "functions": [
+              { "phrase": "That's a fair point", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I take your point", "That's a valid argument", "I can see where you're coming from"] },
+              { "phrase": "I still think", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["my view remains that", "I continue to believe", "I'd still maintain that"] },
+              { "phrase": "on balance", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["all things considered", "weighing everything up", "taking everything into account"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Luca",
+        "level": "B2",
+        "emoji": "👨‍🎓",
+        "profileLabel": "Direct · Confident · Punchy",
+        "styleCard": [
+          "Get to the point immediately — no long warm-up",
+          "Use short, direct sentences to make your argument hit harder",
+          "End with a clear, confident conclusion"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D01-LUC-Q1",
+            "text": "Negative, definitely. Look, it's designed to be addictive — these companies make money from keeping people online as long as possible. Young people don't realise they're being manipulated. I reckon most teenagers would be happier without it, honestly. It creates fake standards that nobody can actually live up to.",
+            "functions": [
+              { "phrase": "I reckon", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["I'd say", "I believe", "my view is"] },
+              { "phrase": "honestly", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["to be frank", "to be straight with you", "if I'm being direct"] }
+            ]
+          },
+          "q2": {
+            "id": "D01-LUC-Q2",
+            "text": "Yeah, but that's the thing — it's a fake kind of connection. You can have five hundred friends online and still feel completely alone. I'd push back on that idea, because real connection needs real interaction. The studies back this up too — heavy users report higher loneliness, not lower. So that argument doesn't really hold up.",
+            "functions": [
+              { "phrase": "I'd push back on that idea", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd challenge that view", "I'd question that assumption", "I'd resist that argument"] },
+              { "phrase": "that argument doesn't really hold up", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["that reasoning doesn't stand up", "that case isn't convincing", "that argument has weaknesses"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Ines",
+        "level": "B2→C1",
+        "emoji": "👩‍🏫",
+        "profileLabel": "Natural · Fluent · Upgrading",
+        "styleCard": [
+          "Sound natural first, then upgrade one phrase to C1 level",
+          "Use a concession move: acknowledge the other view before your own",
+          "Finish with a nuanced conclusion, not a simple yes/no"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D01-INE-Q1",
+            "text": "It's a complicated question, to be honest. I think there are genuine benefits — staying connected, finding communities, sharing ideas. But what concerns me most is the impact on self-image. There's something quite insidious about a platform that constantly shows you a curated version of other people's lives. On the whole, I'd say the effect has been more damaging than helpful, particularly for younger teenagers.",
+            "functions": [
+              { "phrase": "what concerns me most is", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["what strikes me most is", "what I find most troubling is", "the thing that worries me most is"] },
+              { "phrase": "On the whole", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["All things considered", "Taking everything into account", "By and large"] },
+              { "phrase": "particularly for", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["especially when it comes to", "above all for", "most notably in the case of"] }
+            ]
+          },
+          "q2": {
+            "id": "D01-INE-Q2",
+            "text": "I'd acknowledge there's something in that — the connectivity argument has merit. But I'd distinguish between passive scrolling and active communication. The research suggests it's the passive consumption that's harmful, not necessarily messaging friends. So I'd partially agree, but with an important qualification: not all social media use is equal, and the kind that makes young people feel worse is also the most common kind.",
+            "functions": [
+              { "phrase": "I'd acknowledge there's something in that", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd grant there's merit in that", "I'd concede that point has validity", "I wouldn't dismiss that entirely"] },
+              { "phrase": "I'd distinguish between", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["I'd differentiate between", "there's an important difference between", "we need to separate"] },
+              { "phrase": "with an important qualification", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["with a crucial caveat", "subject to one condition", "but with one important reservation"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Maya",
+        "level": "C1",
+        "emoji": "👩‍🔬",
+        "profileLabel": "Reflective · Hedging · Nuanced",
+        "styleCard": [
+          "Qualify your position before stating it — avoid sounding absolute",
+          "Use a concessive structure: 'While X, nevertheless Y'",
+          "Show awareness that the issue is complex before reaching your view"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D01-MAY-Q1",
+            "text": "It's difficult to offer a straightforward answer, partly because the evidence is genuinely mixed. While there are documented benefits — peer support networks, access to information, creative self-expression — the weight of psychological research does seem to suggest that heavy use correlates with poorer mental health outcomes, particularly among girls. I'd be cautious about making a sweeping generalisation, but if pressed, I'd say the net effect has probably been negative for the majority of young users.",
+            "functions": [
+              { "phrase": "It's difficult to offer a straightforward answer", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["It would be an oversimplification to say", "A simple answer doesn't really do justice to", "One can't easily reduce this to a yes or no"] },
+              { "phrase": "I'd be cautious about making a sweeping generalisation", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["I'd resist overgeneralising here", "I'd want to avoid an overly broad claim", "I'd be wary of drawing too absolute a conclusion"] },
+              { "phrase": "if pressed, I'd say", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["were I to commit to a view", "if I had to come down on one side", "forced to give a position"] }
+            ]
+          },
+          "q2": {
+            "id": "D01-MAY-Q2",
+            "text": "That's a nuanced point and I wouldn't dismiss it. The connectivity argument is well-founded in theory — social support is a recognised protective factor for mental health. However, I'd want to interrogate what we mean by 'connected'. The research makes a fairly consistent distinction between active use — direct messaging, making plans — and passive consumption, which is associated with social comparison and lower wellbeing. So while the argument holds for one type of use, it doesn't generalise to the whole experience.",
+            "functions": [
+              { "phrase": "I wouldn't dismiss it", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I wouldn't reject that view", "that's not something to be lightly set aside", "there's genuine weight to that argument"] },
+              { "phrase": "I'd want to interrogate what we mean by", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd want to examine the meaning of", "I'd question the definition of", "I'd challenge what we understand by"] },
+              { "phrase": "it doesn't generalise to", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["it doesn't extend to", "it can't be applied to", "it isn't transferable to"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Theo",
+        "level": "C1",
+        "emoji": "👨‍💻",
+        "profileLabel": "Analytical · Abstract · Academic",
+        "styleCard": [
+          "Open with an abstract observation about the issue, not your opinion",
+          "Use at least one nominalisation — turn a verb into a noun phrase",
+          "Build your argument logically, connecting each point with a discourse marker"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D01-THE-Q1",
+            "text": "The relationship between social media and adolescent wellbeing is one of the more thoroughly researched areas in contemporary psychology, and the consensus is increasingly clear. The design architecture of these platforms — the variable reward mechanisms, the quantified social validation — is specifically engineered to exploit developmental vulnerabilities in young people. My position is that the harm is structural, not incidental: it's built into the product. The connectivity benefits, while real, are secondary effects that don't compensate for the primary damage to identity formation and attentional capacity.",
+            "functions": [
+              { "phrase": "My position is that", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["I would contend that", "My view is firmly that", "I hold that"] },
+              { "phrase": "while real", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["though genuine", "even if valid", "whilst acknowledged"] },
+              { "phrase": "don't compensate for", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["fail to offset", "are insufficient to counterbalance", "don't make up for"] }
+            ]
+          },
+          "q2": {
+            "id": "D01-THE-Q2",
+            "text": "The isolation argument deserves engagement, and I take it seriously. Social connection is a fundamental human need, and to the extent that social media facilitates that, the benefit is real. What I'd contest, however, is the implicit assumption that digital connection is functionally equivalent to in-person interaction. The neurological and psychological literature suggests they activate quite different systems. Furthermore, the platforms that are most heavily marketed to young people prioritise performative self-presentation over genuine connection — which is arguably the opposite of what addresses loneliness.",
+            "functions": [
+              { "phrase": "The isolation argument deserves engagement", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["That concern merits serious consideration", "The connectivity case has genuine weight", "That argument is worth taking seriously"] },
+              { "phrase": "What I'd contest, however, is", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["Where I'd take issue is with", "What I'd challenge, though, is", "The point I'd dispute is"] },
+              { "phrase": "which is arguably the opposite of", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["which effectively undermines", "which runs counter to", "which is essentially the reverse of"] }
+            ]
+          }
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "D02",
+    "domain": "justifying",
+    "domainLabel": "Justifying & Supporting",
+    "domainColour": "#f59e0b",
+    "topic": "Education & Learning",
+    "examPart": "Part 1",
+    "examiner": {
+      "q1": {
+        "id": "D02-EX-Q1",
+        "text": "Some people say that students learn better when they study subjects they choose themselves. Do you agree?"
+      },
+      "q2": {
+        "id": "D02-EX-Q2",
+        "text": "But don't students also need to study subjects they might not choose, like mathematics or a national language?"
+      }
+    },
+    "candidates": [
+      {
+        "name": "Sofia",
+        "level": "B2",
+        "emoji": "👩‍💼",
+        "profileLabel": "Organised · Structured · Clear",
+        "styleCard": [
+          "State your position clearly in your first sentence",
+          "Support it with a reason introduced by 'because' or 'the reason is'",
+          "Use a personal example to make the argument concrete"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D02-SOF-Q1",
+            "text": "Yes, I agree with that. The reason I think so is that motivation is really the key to learning. When you choose a subject yourself, you actually want to understand it, not just pass the exam. For example, I always did much better in the subjects I was interested in. I think that's evidence that personal interest makes a real difference to how much effort you put in.",
+            "functions": [
+              { "phrase": "The reason I think so is that", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["My reasoning is that", "I say this because", "The basis for my view is that"] },
+              { "phrase": "For example", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["To give you a concrete example", "Take for instance", "As an illustration"] },
+              { "phrase": "I think that's evidence that", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["This suggests that", "This shows clearly that", "This demonstrates that"] }
+            ]
+          },
+          "q2": {
+            "id": "D02-SOF-Q2",
+            "text": "That's true, and I do think some core subjects are important for everyone. My point is that there should be a balance — students need the basics, but they should also have some freedom. If everything is decided for them, they can lose motivation completely. So I'd argue that a mix of compulsory and optional subjects works best in practice.",
+            "functions": [
+              { "phrase": "My point is that", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["What I'm arguing is that", "The key claim I'm making is that", "What I mean is that"] },
+              { "phrase": "So I'd argue that", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["This leads me to conclude that", "My conclusion therefore is that", "It follows from this that"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Luca",
+        "level": "B2",
+        "emoji": "👨‍🎓",
+        "profileLabel": "Direct · Confident · Punchy",
+        "styleCard": [
+          "Lead with your conclusion, then give the reasons",
+          "Use rhetorical questions to make your argument more forceful",
+          "Keep your justification tight — one strong reason is better than three weak ones"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D02-LUC-Q1",
+            "text": "Absolutely. Think about it — why would you work hard on something you hate? You wouldn't. Interest drives effort, and effort drives results. It's that simple. The whole idea of forcing students through subjects they don't care about is outdated, frankly. Schools should be helping people find their strengths, not making everyone study the same things.",
+            "functions": [
+              { "phrase": "Think about it", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["Consider this", "Ask yourself", "The logic is straightforward"] },
+              { "phrase": "frankly", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["to be direct", "honestly", "if I'm being straight"] }
+            ]
+          },
+          "q2": {
+            "id": "D02-LUC-Q2",
+            "text": "Fine, maths and languages — I'll give you those. There are some basics everyone needs. But the list shouldn't be twenty subjects long. Two or three core things, and then students choose the rest. That way you get the foundations without killing off anyone's interest in learning. The current system is too rigid and it shows — look at how many kids disengage.",
+            "functions": [
+              { "phrase": "I'll give you those", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd concede those", "fair enough on those", "I accept that point"] },
+              { "phrase": "That way you get", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["This approach delivers", "The result would be", "The benefit is that"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Ines",
+        "level": "B2→C1",
+        "emoji": "👩‍🏫",
+        "profileLabel": "Natural · Fluent · Upgrading",
+        "styleCard": [
+          "Give your answer, then support it with both a reason and an example",
+          "Use 'in the sense that' or 'in that' to add precision to your justification",
+          "Show you've considered the complexity before landing on your view"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D02-INE-Q1",
+            "text": "I'd broadly agree, in the sense that intrinsic motivation genuinely does seem to produce better outcomes. There's a difference between studying to pass and studying to understand — and that difference shows in how much you retain afterwards. That said, I think choice alone isn't enough; it has to be paired with good teaching. But yes, ownership over your learning makes a significant difference to engagement and depth.",
+            "functions": [
+              { "phrase": "in the sense that", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["in that", "in the way that", "insofar as"] },
+              { "phrase": "There's a difference between", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["We need to distinguish between", "It's worth separating out", "There's an important distinction between"] },
+              { "phrase": "ownership over your learning", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["agency in the learning process", "having a stake in what you study", "being invested in your own education"] }
+            ]
+          },
+          "q2": {
+            "id": "D02-INE-Q2",
+            "text": "Yes, and that's a necessary qualification to what I was saying. Some knowledge is genuinely foundational — it creates the framework everything else hangs on. The argument for compulsory subjects isn't about control, it's about equipping students with the tools to access other knowledge later. What I'd resist is a system where there's no room for student voice at all. The most effective models I've come across tend to combine a strong core with real flexibility at the edges.",
+            "functions": [
+              { "phrase": "that's a necessary qualification", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["that's an important caveat", "that's a fair amendment to my point", "that adds necessary nuance"] },
+              { "phrase": "What I'd resist is", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["What I'd push back against is", "Where I'd draw the line is", "What I'd object to is"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Maya",
+        "level": "C1",
+        "emoji": "👩‍🔬",
+        "profileLabel": "Reflective · Hedging · Nuanced",
+        "styleCard": [
+          "Qualify your agreement — show that 'yes, but it depends on...'",
+          "Use hedging language: 'tends to', 'on the whole', 'in most cases'",
+          "Identify the condition under which your argument holds true"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D02-MAY-Q1",
+            "text": "There's a strong body of evidence to support that view, particularly in the area of motivational psychology. The distinction between intrinsic and extrinsic motivation has been fairly well established — and the research tends to suggest that intrinsically motivated learners demonstrate deeper processing and longer retention. I'd agree with the principle, while noting that it applies more clearly to older students, who have the self-knowledge to make informed choices. For younger children, the relationship between choice and learning is more complicated.",
+            "functions": [
+              { "phrase": "There's a strong body of evidence to support that view", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["The research supports that position strongly", "That view has considerable empirical backing", "There are good grounds for that claim"] },
+              { "phrase": "tends to suggest that", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["seems to indicate that", "generally points to the conclusion that", "broadly supports the idea that"] },
+              { "phrase": "while noting that", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["with the caveat that", "subject to the observation that", "though I'd add that"] }
+            ]
+          },
+          "q2": {
+            "id": "D02-MAY-Q2",
+            "text": "That's an important counterpoint, and I'd be the first to acknowledge it. The case for certain compulsory subjects rests on the argument that some skills are genuinely prerequisite — not just useful, but necessary for meaningful participation in society. Numeracy and literacy are the obvious examples. What I'd want to resist, however, is the extension of that logic to the entire curriculum. The justification for compulsion weakens considerably as you move away from those foundational domains.",
+            "functions": [
+              { "phrase": "I'd be the first to acknowledge it", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I readily accept that point", "I have no difficulty conceding that", "I'd openly accept that"] },
+              { "phrase": "The case rests on the argument that", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["The rationale is grounded in the idea that", "The justification derives from the claim that", "The logic depends on the view that"] },
+              { "phrase": "The justification weakens considerably", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["The argument loses force", "The reasoning becomes less persuasive", "The case becomes harder to defend"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Theo",
+        "level": "C1",
+        "emoji": "👨‍💻",
+        "profileLabel": "Analytical · Abstract · Academic",
+        "styleCard": [
+          "Frame the issue in abstract terms before giving your view",
+          "Use nominalisations: 'the imposition of', 'the correlation between'",
+          "Reference evidence or a broader principle to anchor your justification"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D02-THE-Q1",
+            "text": "The correlation between student autonomy and academic engagement is well-documented, and the theoretical underpinning is robust. Self-determination theory — one of the more influential frameworks in educational psychology — identifies autonomy as a fundamental psychological need, the fulfilment of which is directly associated with higher-quality learning. On that basis, the proposition holds: the imposition of a rigid, non-negotiable curriculum works against the conditions that produce genuine intellectual development.",
+            "functions": [
+              { "phrase": "The correlation between", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["The relationship between", "The connection between", "The link between"] },
+              { "phrase": "the theoretical underpinning is robust", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["the conceptual foundation is sound", "the framework supporting this is well-established", "the theoretical basis is solid"] },
+              { "phrase": "On that basis", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["Given that evidence", "In light of that framework", "Drawing on that reasoning"] }
+            ]
+          },
+          "q2": {
+            "id": "D02-THE-Q2",
+            "text": "The argument for compulsory core subjects is defensible, but it requires careful scoping. The legitimate case rests on the concept of epistemic prerequisites — knowledge and skills without which further learning is structurally inaccessible. That argument is strongest for foundational literacy and numeracy, and weakens considerably as the subject list expands. What I'd resist is the conflation of 'useful' with 'compulsory': the fact that a subject might benefit some students isn't sufficient justification for mandating it for all.",
+            "functions": [
+              { "phrase": "it requires careful scoping", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["it needs to be precisely defined", "it depends heavily on how far you extend it", "its application needs to be limited"] },
+              { "phrase": "What I'd resist is the conflation of", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["What I'd challenge is the equation of", "Where I'd push back is on treating", "What I'd dispute is the identification of"] }
+            ]
+          }
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "D03",
+    "domain": "speculating",
+    "domainLabel": "Speculating",
+    "domainColour": "#a78bfa",
+    "topic": "Environment & Climate",
+    "examPart": "Part 2",
+    "examiner": {
+      "q1": {
+        "id": "D03-EX-Q1",
+        "text": "Looking at this photograph of a city with heavy traffic, what do you think the people in the picture might be feeling?"
+      },
+      "q2": {
+        "id": "D03-EX-Q2",
+        "text": "What do you think the long-term effects of this kind of traffic congestion might be on a city?"
+      }
+    },
+    "candidates": [
+      {
+        "name": "Sofia",
+        "level": "B2",
+        "emoji": "👩‍💼",
+        "profileLabel": "Organised · Structured · Clear",
+        "styleCard": [
+          "Signal that you're speculating before you speculate — 'I'd guess', 'I think'",
+          "Cover at least two different possibilities, not just one",
+          "End with a phrase that shows you know you can't be certain"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D03-SOF-Q1",
+            "text": "Well, it's hard to say for certain, but I'd guess the people are probably feeling quite frustrated or stressed. Being stuck in traffic is really unpleasant, especially if you have somewhere important to be. I imagine the driver at the front might be worried about being late for work. It could also be that some people have just got used to it and don't feel that bothered anymore — like it's just part of their daily routine.",
+            "functions": [
+              { "phrase": "it's hard to say for certain", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["it's difficult to know for sure", "I can only guess really", "there's no way to be certain"] },
+              { "phrase": "I'd guess", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["I'd say probably", "I suspect", "my guess would be"] },
+              { "phrase": "I imagine", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["I'd suppose", "I'd think", "it seems likely that"] },
+              { "phrase": "It could also be that", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["It's also possible that", "Another possibility is that", "There's also a chance that"] }
+            ]
+          },
+          "q2": {
+            "id": "D03-SOF-Q2",
+            "text": "I think the effects could be quite serious over time. Air quality would probably get worse, which might cause more health problems for people living in the city. There might also be economic effects — companies might find it harder to deliver goods. I suppose the government might eventually be forced to invest more in public transport, but that's hard to predict without knowing the political situation.",
+            "functions": [
+              { "phrase": "could be quite serious", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["may well be significant", "might turn out to be severe", "could prove quite damaging"] },
+              { "phrase": "would probably get worse", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["is likely to deteriorate", "seems bound to decline", "would in all probability worsen"] },
+              { "phrase": "There might also be", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["There could also be", "One might also expect", "It's conceivable there would be"] },
+              { "phrase": "I suppose", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["I'd imagine", "one could speculate", "it seems plausible that"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Luca",
+        "level": "B2",
+        "emoji": "👨‍🎓",
+        "profileLabel": "Direct · Confident · Punchy",
+        "styleCard": [
+          "Speculate confidently — use 'probably', 'must be', 'I bet'",
+          "Read the image quickly and commit to one strong interpretation",
+          "Back up your speculation with a logical reason"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D03-LUC-Q1",
+            "text": "Frustrated, mostly. Probably furious, actually — look at how dense that traffic is. I bet most of those drivers have been sitting there for at least twenty minutes. The ones on motorbikes are probably feeling a bit smug though. What gets me is the exhaust fumes — breathing that in all day must be really bad for you. I'd say the emotional range is somewhere between bored and absolutely fed up.",
+            "functions": [
+              { "phrase": "I bet", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["I'd wager", "I'm fairly certain", "I'd guess"] },
+              { "phrase": "must be really bad", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["must be quite harmful", "can only be damaging", "is surely doing damage"] },
+              { "phrase": "I'd say", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["I'd put it at", "My assessment is", "In my view"] }
+            ]
+          },
+          "q2": {
+            "id": "D03-LUC-Q2",
+            "text": "Long term? The city probably chokes itself. Businesses will start moving out, people will stop wanting to live there, property prices might actually crash in the worst-affected areas. Or the opposite — the government panics and throws money at electric buses and cycle lanes. Either way, it's going to force some kind of change. The status quo just isn't sustainable, realistically.",
+            "functions": [
+              { "phrase": "probably", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["very likely", "in all probability", "almost certainly"] },
+              { "phrase": "might actually", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["could potentially", "may well", "there's a real chance they could"] },
+              { "phrase": "isn't sustainable, realistically", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["can't continue in the long term", "won't hold up over time", "is not a viable long-term position"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Ines",
+        "level": "B2→C1",
+        "emoji": "👩‍🏫",
+        "profileLabel": "Natural · Fluent · Upgrading",
+        "styleCard": [
+          "Use 'would appear to' or 'seem to' to sound more sophisticated when speculating",
+          "Offer a psychological or social reading, not just a surface description",
+          "Hedge your longer-term speculations more carefully than your immediate ones"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D03-INE-Q1",
+            "text": "The people in the foreground would appear to be experiencing a mix of frustration and resignation — which I'd speculate reflects a kind of learned helplessness that urban commuters develop when congestion becomes chronic. The person further back could well be entirely switched off, listening to something, mentally somewhere else entirely. I think there's also something worth noting about how differently pedestrians and drivers seem to experience the same physical space.",
+            "functions": [
+              { "phrase": "would appear to be experiencing", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["seem to be going through", "give the impression of feeling", "look as though they're experiencing"] },
+              { "phrase": "I'd speculate", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["I'd tentatively suggest", "my speculation would be", "I'd venture to say"] },
+              { "phrase": "could well be", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["might very well be", "is quite possibly", "there's every chance they are"] }
+            ]
+          },
+          "q2": {
+            "id": "D03-INE-Q2",
+            "text": "The consequences are likely to be wide-ranging. Most immediately, air quality is probably going to decline further — with the health implications that follow. There are also likely to be economic effects: reduced efficiency, higher logistics costs, and a possible long-term exodus of businesses from the centre. Whether cities respond proactively or reactively is harder to predict — that presumably depends on the political will available, which varies enormously. I'd say the outcome is genuinely uncertain, but the pressure to act will only increase.",
+            "functions": [
+              { "phrase": "are likely to be wide-ranging", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["are probably going to be substantial", "seem likely to extend across many areas", "could prove to be far-reaching"] },
+              { "phrase": "There are also likely to be", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["One might also expect", "It's probable there would also be", "We could also anticipate"] },
+              { "phrase": "is harder to predict", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["is less easy to forecast", "remains more uncertain", "is more difficult to determine with confidence"] },
+              { "phrase": "presumably depends on", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["would in all likelihood hinge on", "is probably contingent on", "would almost certainly be a function of"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Maya",
+        "level": "C1",
+        "emoji": "👩‍🔬",
+        "profileLabel": "Reflective · Hedging · Nuanced",
+        "styleCard": [
+          "Distinguish between what you can observe and what you can only infer",
+          "Use 'suggests' and 'implies' when drawing psychological conclusions",
+          "Acknowledge multiple possible interpretations before choosing one"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D03-MAY-Q1",
+            "text": "It's impossible to say with any certainty, of course — we can only infer from what's visible. That said, the body language of the driver nearest the camera suggests something closer to resignation than acute frustration, which is an interesting distinction. Prolonged exposure to traffic tends to shift people from active stress to passive disengagement. The pedestrians, if any are visible, might tell a different story — they're at least moving, which changes the psychological experience considerably.",
+            "functions": [
+              { "phrase": "It's impossible to say with any certainty", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["One can't determine this definitively", "There's no way to be sure", "We can only speculate here"] },
+              { "phrase": "we can only infer from", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["we can only read from", "all we can go on is", "our interpretation relies solely on"] },
+              { "phrase": "tends to shift", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["generally moves", "typically transforms", "seems to transition"] }
+            ]
+          },
+          "q2": {
+            "id": "D03-MAY-Q2",
+            "text": "The long-term effects are likely to be systemic. One could reasonably predict a progressive deterioration in air quality, with attendant implications for respiratory health across the population. There are likely to be economic ramifications too — reduced productivity, supply chain disruption, and potentially the gradual hollowing-out of commercial centres as businesses relocate. Whether this triggers a policy response is harder to forecast: that would presumably depend on the severity of the crisis and the political calculus at the time.",
+            "functions": [
+              { "phrase": "One could reasonably predict", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["It seems reasonable to expect", "One might plausibly foresee", "There are grounds to anticipate"] },
+              { "phrase": "with attendant implications", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["with corresponding consequences", "with the associated effects", "with the knock-on effects for"] },
+              { "phrase": "harder to forecast", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["less easy to predict", "more difficult to determine", "less certain to anticipate"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Theo",
+        "level": "C1",
+        "emoji": "👨‍💻",
+        "profileLabel": "Analytical · Abstract · Academic",
+        "styleCard": [
+          "Frame your speculation in systemic or structural terms",
+          "Use abstract nouns: 'the psychological impact', 'the cumulative effect'",
+          "Distinguish short-term from long-term effects explicitly"
+        ],
+        "answers": {
+          "q1": {
+            "id": "D03-THE-Q1",
+            "text": "The immediate phenomenology is difficult to assess from a static image, but one could venture that the predominant affective state is something between habituated frustration and cognitive disengagement. Chronic exposure to high-stimulation, low-control environments — which is essentially what urban traffic congestion represents — tends to produce precisely that dissociative response. The capacity for acute frustration diminishes over time; what remains is a kind of ambient stress that people stop consciously registering.",
+            "functions": [
+              { "phrase": "one could venture that", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["one might suggest that", "it seems reasonable to speculate that", "I'd tentatively propose that"] },
+              { "phrase": "tends to produce", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["generally results in", "seems to give rise to", "is typically associated with"] }
+            ]
+          },
+          "q2": {
+            "id": "D03-THE-Q2",
+            "text": "The long-term systemic effects operate on several levels simultaneously. The environmental and public health implications are relatively well-modelled: progressive air quality degradation with associated morbidity increases. The economic effects are more variable and context-dependent — congestion costs are substantial but their distribution across different sectors is uneven. What is harder to predict with confidence is the behavioural response: whether populations adapt, relocate, or exert sufficient political pressure to drive infrastructure change. History suggests the latter is the least likely outcome in the short-to-medium term.",
+            "functions": [
+              { "phrase": "operate on several levels simultaneously", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["manifest across multiple dimensions", "unfold across different domains at once", "work through several interconnected mechanisms"] },
+              { "phrase": "What is harder to predict with confidence is", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["What remains more uncertain is", "What is less easy to forecast with certainty is", "Where prediction becomes more speculative is"] },
+              { "phrase": "History suggests", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["The historical record indicates", "Past experience points to", "Evidence from comparable situations suggests"] }
+            ]
+          }
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "D04",
+    "domain": "comparing",
+    "domainLabel": "Comparing & Contrasting",
+    "domainColour": "#60a5fa",
+    "topic": "Work & Career",
+    "examPart": "Part 2",
+    "examiner": {
+      "q1": {
+        "id": "D04-EX-Q1",
+        "text": "Here are two photographs — one showing someone working from home, and another showing an office environment. Can you compare them and say which situation you think is more productive?"
+      },
+      "q2": {
+        "id": "D04-EX-Q2",
+        "text": "Thinking about your own experience, which environment do you personally find more effective for deep work?"
+      }
+    },
+    "candidates": [
+      {
+        "name": "Sofia", "level": "B2", "emoji": "👩‍💼", "profileLabel": "Organised · Structured · Clear",
+        "styleCard": ["Name both photos explicitly before comparing", "Use 'whereas' or 'on the other hand' to signal contrast", "Answer the question directly at the end"],
+        "answers": {
+          "q1": {
+            "id": "D04-SOF-Q1",
+            "text": "In both photos the people are working, but the situations are quite different. In the first one, the person is alone at home, which looks calm and quiet, whereas in the second photo, there are lots of people around, which seems busier and more energetic. In terms of productivity, I'd say it really depends on the type of work — some tasks need focus, others need collaboration.",
+            "functions": [
+              { "phrase": "In both photos", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["In each photograph", "Across both images", "Looking at both pictures"] },
+              { "phrase": "whereas", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["while", "by contrast", "on the other hand"] },
+              { "phrase": "In terms of", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["When it comes to", "With regard to", "As far as ... is concerned"] }
+            ]
+          },
+          "q2": {
+            "id": "D04-SOF-Q2",
+            "text": "Personally, I find I'm more productive at home, mainly because there are fewer interruptions. Unlike in an office, where people can come and talk to you at any time, at home I can really focus. One difference I've noticed is that I miss the social side, though — working from home can feel quite lonely after a while. So both have their advantages, but for concentration, home wins.",
+            "functions": [
+              { "phrase": "Unlike in an office", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["In contrast to the office", "As opposed to the office setting", "Compared with being in an office"] },
+              { "phrase": "One difference I've noticed is", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["A key distinction I've found is", "What sets them apart for me is", "Something that stands out is"] },
+              { "phrase": "both have their advantages", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["there are merits to each", "each has something going for it", "neither is straightforwardly superior"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Luca", "level": "B2", "emoji": "👨‍🎓", "profileLabel": "Direct · Confident · Punchy",
+        "styleCard": ["Make your comparison fast and decisive", "Use strong contrast words: 'completely different', 'poles apart'", "State your preference clearly and briefly"],
+        "answers": {
+          "q1": {
+            "id": "D04-LUC-Q1",
+            "text": "They're completely different situations. Home is quiet, controlled, yours — you decide everything. Office is noisy, social, unpredictable. For actual output, home probably wins — fewer distractions, more control over your time. But the office wins for energy, for spontaneous conversations that lead somewhere. Depends what you mean by productive, really.",
+            "functions": [
+              { "phrase": "completely different", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["poles apart", "entirely distinct", "fundamentally unlike"] },
+              { "phrase": "Depends what you mean by", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["It comes down to how you define", "That hinges on your interpretation of", "The answer varies depending on what counts as"] }
+            ]
+          },
+          "q2": {
+            "id": "D04-LUC-Q2",
+            "text": "Home, easily. I need silence for anything that requires thinking. In an office I'm constantly half-distracted — someone's always talking nearby or pulling you into a meeting. At home I can do four hours of real work before lunch. In an office that same four hours becomes six because of all the interruptions. The comparison isn't even close for me.",
+            "functions": [
+              { "phrase": "The comparison isn't even close", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["There's really no contest", "The gap is significant", "The difference is decisive"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Ines", "level": "B2→C1", "emoji": "👩‍🏫", "profileLabel": "Natural · Fluent · Upgrading",
+        "styleCard": ["Compare on multiple dimensions, not just one", "Use 'by comparison' or 'by contrast' to signal the shift", "Show that your conclusion is a considered judgement, not a snap decision"],
+        "answers": {
+          "q1": {
+            "id": "D04-INE-Q1",
+            "text": "The contrast is quite striking. The home worker has a controlled, self-directed environment — quieter, more personal. The office, by contrast, is characterised by density and social energy, which can either fuel creativity or fragment concentration depending on the task. Neither is objectively superior; they serve different cognitive purposes. If I had to choose which is more productive in absolute terms, I'd probably say it depends on the nature of the work — creative collaboration benefits from proximity, whereas deep analytical work doesn't.",
+            "functions": [
+              { "phrase": "The contrast is quite striking", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["The difference is quite marked", "The two environments are notably distinct", "There's a sharp contrast between them"] },
+              { "phrase": "by contrast", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["by comparison", "on the other hand", "conversely"] },
+              { "phrase": "whereas", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["while", "as opposed to situations where", "in contrast to cases where"] }
+            ]
+          },
+          "q2": {
+            "id": "D04-INE-Q2",
+            "text": "My experience aligns with the distinction I just made. For anything requiring sustained concentration — writing, complex analysis — I find home significantly more effective. The office, by comparison, offers a social infrastructure that's genuinely valuable for planning and brainstorming, but comes at the cost of uninterrupted focus time. If I were to draw the distinction that matters most to me, it would be this: home is where I do my best individual thinking; the office is where I do my best collaborative thinking.",
+            "functions": [
+              { "phrase": "The office, by comparison", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["The office, in contrast", "Alongside that, the office", "The office, on the other hand"] },
+              { "phrase": "comes at the cost of", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["but at the expense of", "though it sacrifices", "while trading away"] },
+              { "phrase": "If I were to draw the distinction", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["The key contrast for me", "What sets them apart most clearly", "The difference that matters most"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Maya", "level": "C1", "emoji": "👩‍🔬", "profileLabel": "Reflective · Hedging · Nuanced",
+        "styleCard": ["Avoid a simple either/or — show the conditions under which each is better", "Use 'tends to' and 'is more conducive to' for sophisticated comparison", "End with a nuanced verdict, not an absolute one"],
+        "answers": {
+          "q1": {
+            "id": "D04-MAY-Q1",
+            "text": "The two environments are optimised for quite different cognitive tasks, which complicates any simple productivity comparison. The home environment tends to be more conducive to what cognitive scientists call deep work — tasks requiring uninterrupted concentration and sustained attention. The office, by contrast, is better suited to collaborative and communicative tasks that benefit from physical proximity and spontaneous exchange. Framing the question as which is more productive overlooks this distinction.",
+            "functions": [
+              { "phrase": "tends to be more conducive to", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["is generally better suited to", "typically lends itself more to", "usually facilitates more effectively"] },
+              { "phrase": "by contrast", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["on the other hand", "in contrast", "whereas"] },
+              { "phrase": "overlooks this distinction", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["fails to capture this nuance", "misses this important difference", "doesn't account for this complexity"] }
+            ]
+          },
+          "q2": {
+            "id": "D04-MAY-Q2",
+            "text": "My personal experience broadly confirms what the research suggests. I find concentrated, analytical work significantly more sustainable from home, where I have control over my environment and can eliminate interruptions. The office, while socially energising, introduces a kind of cognitive taxation that I find particularly costly for writing and complex problem-solving. That said, I'm aware that this isn't universal — some people genuinely work better with ambient social energy around them. The comparison is ultimately individual.",
+            "functions": [
+              { "phrase": "broadly confirms what the research suggests", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["aligns with what studies show", "is consistent with the evidence", "supports the findings in this area"] },
+              { "phrase": "The comparison is ultimately individual", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["it really does vary from person to person", "there's no single answer that applies to everyone", "the most accurate answer is: it depends on the person"] }
+            ]
+          }
+        }
+      },
+      {
+        "name": "Theo", "level": "C1", "emoji": "👨‍💻", "profileLabel": "Analytical · Abstract · Academic",
+        "styleCard": ["Use abstract framing: 'the distinction between X and Y maps onto...'", "Reference a concept or framework to anchor your comparison", "Be precise about the conditions under which each is superior"],
+        "answers": {
+          "q1": {
+            "id": "D04-THE-Q1",
+            "text": "The contrast between the two photographs maps fairly directly onto a well-established distinction in organisational psychology: the difference between environments optimised for individual cognitive performance and those optimised for social coordination. The remote setting, characterised by low interruption and high autonomy, aligns with the conditions identified in deep work research as necessary for high-quality cognitive output. The open office, conversely, sacrifices individual performance capacity for collaborative accessibility — a trade-off that is rational for some workflows and destructive for others.",
+            "functions": [
+              { "phrase": "maps fairly directly onto", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["corresponds closely to", "aligns with", "reflects"] },
+              { "phrase": "characterised by", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["defined by", "marked by", "distinguished by its"] },
+              { "phrase": "conversely", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["by contrast", "on the other hand", "in the opposite direction"] }
+            ]
+          },
+          "q2": {
+            "id": "D04-THE-Q2",
+            "text": "My personal experience is consistent with the theoretical framework. For cognitively demanding, solitary tasks — writing, analysis, structured thinking — the home environment is substantially more effective. The office environment, by comparison, imposes an attentional overhead that I find disproportionately costly for that type of work. The calculus shifts for collaborative tasks: the friction cost of remote communication — the delay, the loss of non-verbal cues — means that for genuinely interdependent work, physical co-location retains a meaningful advantage.",
+            "functions": [
+              { "phrase": "by comparison", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["in contrast", "alongside that", "set against that"] },
+              { "phrase": "The calculus shifts for", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["The balance changes when it comes to", "The equation is different for", "The trade-off reverses in the case of"] }
+            ]
+          }
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "D05",
+    "domain": "agreeing",
+    "domainLabel": "Agreeing & Conceding",
+    "domainColour": "#4ade80",
+    "topic": "Health & Lifestyle",
+    "examPart": "Part 4",
+    "examiner": {
+      "q1": { "id": "D05-EX-Q1", "text": "Some people say the government should do more to encourage people to live healthier lives. Do you agree?" },
+      "q2": { "id": "D05-EX-Q2", "text": "Others argue that health is a personal responsibility and the government shouldn't interfere. Is there any truth in that view?" }
+    },
+    "candidates": [
+      {
+        "name": "Sofia", "level": "B2", "emoji": "👩‍💼", "profileLabel": "Organised · Structured · Clear",
+        "styleCard": ["Signal your agreement explicitly at the start", "Give one clear reason why you agree", "Acknowledge the other side before reconfirming your view"],
+        "answers": {
+          "q1": { "id": "D05-SOF-Q1", "text": "Yes, I agree with that. The government has a real role to play, because health problems cost the public a huge amount of money. I think it's fair to say that when people are unhealthy, everyone pays for it through the health system. So it makes sense for the government to invest in things like health campaigns and better food labelling.", "functions": [ { "phrase": "I agree with that", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I share that view", "I find myself in agreement", "That's a position I'd support"] }, { "phrase": "I think it's fair to say", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I think most would accept", "It seems reasonable to say", "It's generally recognised that"] }, { "phrase": "it makes sense", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["it stands to reason", "the logic is clear", "it follows naturally"] } ] },
+          "q2": { "id": "D05-SOF-Q2", "text": "Yes, I can see where that argument is coming from — people should have freedom to make their own choices, and I accept that. But I think the two ideas aren't really opposites. The government can provide better information without forcing people to do anything. I'd agree that forcing people isn't the answer, but I do think some guidance is helpful.", "functions": [ { "phrase": "I can see where that argument is coming from", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I understand the logic behind that", "I recognise the merit in that view", "I see why people think that"] }, { "phrase": "I accept that", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I grant that", "I acknowledge that", "I concede that point"] }, { "phrase": "I'd agree that", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd concur that", "I wouldn't dispute that", "I'm happy to accept that"] } ] }
+        }
+      },
+      {
+        "name": "Luca", "level": "B2", "emoji": "👨‍🎓", "profileLabel": "Direct · Confident · Punchy",
+        "styleCard": ["Agree directly and immediately", "Support with a real-world observation, not an abstract point", "Use 'exactly' or 'absolutely' to sound more natural"],
+        "answers": {
+          "q1": { "id": "D05-LUC-Q1", "text": "Absolutely — it's a no-brainer. The government builds roads, funds schools, cleans the air — why not help people be healthier? It saves money in the long run anyway. Treating preventable diseases is way more expensive than preventing them. Investing in healthy habits is just good economics.", "functions": [ { "phrase": "Absolutely", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["Definitely", "Without question", "One hundred percent"] }, { "phrase": "it's a no-brainer", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["it's an obvious conclusion", "the answer is clear", "the logic is straightforward"] } ] },
+          "q2": { "id": "D05-LUC-Q2", "text": "Sure, there's truth in it. Nobody wants the government telling them what to eat for breakfast. But there's a difference between informing and controlling. I'm fine with information campaigns, better labelling, taxing junk food — that's not interference, that's just setting sensible conditions. I'll grant that mandating specific behaviours would be a step too far.", "functions": [ { "phrase": "there's truth in it", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["there's something to that", "the point has validity", "that's not without merit"] }, { "phrase": "I'll grant that", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd concede that", "I'm willing to accept that", "I'll acknowledge that"] } ] }
+        }
+      },
+      {
+        "name": "Ines", "level": "B2→C1", "emoji": "👩‍🏫", "profileLabel": "Natural · Fluent · Upgrading",
+        "styleCard": ["Use 'I'd concur with that' or 'I find that persuasive' to vary your agreement phrases", "Concede a limitation in your position to show balance", "Show that your agreement is reasoned, not just reflexive"],
+        "answers": {
+          "q1": { "id": "D05-INE-Q1", "text": "I'd concur with that view, and actually I'd go a step further. The argument for government involvement in public health is difficult to dispute on economic grounds alone — the cost burden of preventable illness is substantial. Beyond the economics, there's also a structural argument: when unhealthy choices are cheaper and more accessible than healthy ones, personal responsibility becomes a somewhat unrealistic expectation.", "functions": [ { "phrase": "I'd concur with that view", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd align with that perspective", "I find myself in agreement", "That's a view I'd endorse"] }, { "phrase": "difficult to dispute", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["hard to challenge", "not easily contested", "persuasive on its own terms"] }, { "phrase": "somewhat unrealistic", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["not entirely realistic", "rather idealistic", "not fully achievable in practice"] } ] },
+          "q2": { "id": "D05-INE-Q2", "text": "There's undeniable validity to the autonomy argument, and I wouldn't dismiss it. The concern about paternalism is legitimate — nobody wants to live in a nanny state. I'd accept that distinction between incentivising healthy behaviour and mandating it. Where I'd part company with the pure personal responsibility view is on inequality: when poverty so strongly predicts poor health, placing the moral burden solely on individuals seems both insufficient and inequitable.", "functions": [ { "phrase": "There's undeniable validity to", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd acknowledge the force of", "There's genuine merit in", "One can't deny the weight of"] }, { "phrase": "I'd accept that distinction", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd grant that difference", "I'm willing to acknowledge that", "I'd concede that separation"] }, { "phrase": "Where I'd part company", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["Where I'd diverge", "The point at which I'd disagree", "Where my position differs"] } ] }
+        }
+      },
+      {
+        "name": "Maya", "level": "C1", "emoji": "👩‍🔬", "profileLabel": "Reflective · Hedging · Nuanced",
+        "styleCard": ["Agree with qualifications — show the limits of your agreement", "Use 'I'd be the first to acknowledge' or 'I'd readily concede'", "Identify the strongest version of the opposing view before accepting your own"],
+        "answers": {
+          "q1": { "id": "D05-MAY-Q1", "text": "I'd be inclined to agree, though I'd want to be careful about the scope of that agreement. The public health argument for government intervention is well-established, and I find it fairly persuasive. What I'd resist is a simplistic version of that argument that ignores the diversity of what 'intervention' might mean — there's a significant difference between providing accurate nutritional information and, say, restricting food choices.", "functions": [ { "phrase": "I'd be inclined to agree", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd be disposed to accept that", "I lean towards agreeing", "My inclination is to support that view"] }, { "phrase": "I find it fairly persuasive", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["the argument carries weight with me", "I find the reasoning convincing", "it makes a compelling case"] }, { "phrase": "What I'd resist is", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["Where I'd push back is on", "What I'd want to challenge is", "What I'd object to is"] } ] },
+          "q2": { "id": "D05-MAY-Q2", "text": "I'd acknowledge the legitimacy of the autonomy argument — the concern about state overreach into private decisions is philosophically serious, not just politically convenient. I'd grant the distinction between informing and mandating, and I'd agree that the latter crosses an important line. Where I'd qualify my acceptance, however, is on the empirical claim that individuals have genuinely free choice about their health behaviours: the evidence on the structural determinants of health — poverty, advertising, food environment — complicates that picture significantly.", "functions": [ { "phrase": "I'd acknowledge the legitimacy of", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd recognise the validity of", "I'd accept the force of", "I'd concede the seriousness of"] }, { "phrase": "I'd grant the distinction", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd accept that difference", "I'd concede that separation", "I'd recognise that distinction"] }, { "phrase": "Where I'd qualify my acceptance", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["Where I'd add a caveat is", "The limit of my agreement is", "Where I'd introduce a reservation is"] } ] }
+        }
+      },
+      {
+        "name": "Theo", "level": "C1", "emoji": "👨‍💻", "profileLabel": "Analytical · Abstract · Academic",
+        "styleCard": ["Frame your agreement in terms of a principle or framework", "Use 'I'd concur on the grounds that' to sound academic", "Show that your agreement follows logically from evidence or theory"],
+        "answers": {
+          "q1": { "id": "D05-THE-Q1", "text": "I'd concur, on the grounds that the argument for public health intervention is grounded in a coherent and well-evidenced framework. The economic case — that preventable illness generates externalities that fall on public systems — is straightforwardly compelling. Beyond economics, there's a market failure argument: when the food environment is systematically skewed towards cheap, high-calorie products through subsidies and advertising, individual choice operates within constraints that the state helped create and can therefore legitimately modify.", "functions": [ { "phrase": "I'd concur, on the grounds that", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd agree, given that", "My agreement rests on the fact that", "I'd support that view because"] }, { "phrase": "straightforwardly compelling", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["clearly persuasive", "difficult to dispute", "hard to argue against"] } ] },
+          "q2": { "id": "D05-THE-Q2", "text": "The autonomy argument has genuine philosophical weight, and I wouldn't dismiss it. The concern about paternalism is substantive — it raises real questions about the proper scope of state authority. I'd accept the distinction between information provision and behavioural mandates as meaningful and important. My qualification, however, is that the autonomy argument implicitly assumes a level playing field that doesn't exist: structural inequalities in the food environment mean that the freedom to choose healthily is not equally distributed.", "functions": [ { "phrase": "has genuine philosophical weight", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["carries real intellectual force", "deserves serious engagement", "raises legitimate concerns"] }, { "phrase": "I'd accept the distinction as meaningful", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I'd recognise that as a valid distinction", "I'd concede that difference matters", "I'd grant that the separation is important"] }, { "phrase": "My qualification, however, is that", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["Where I'd add a caveat is that", "The limit of that agreement is that", "Where I'd push back is on the assumption that"] } ] }
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "D06",
+    "domain": "disagreeing",
+    "domainLabel": "Disagreeing & Challenging",
+    "domainColour": "#fb923c",
+    "topic": "Arts & Culture",
+    "examPart": "Part 4",
+    "examiner": {
+      "q1": { "id": "D06-EX-Q1", "text": "Some people believe that governments should fund the arts — theatre, opera, museums. What do you think?" },
+      "q2": { "id": "D06-EX-Q2", "text": "But without government support, many cultural institutions simply couldn't survive. Does that change your view?" }
+    },
+    "candidates": [
+      {
+        "name": "Sofia", "level": "B2", "emoji": "👩‍💼", "profileLabel": "Organised · Structured · Clear",
+        "styleCard": ["Disagree politely — start by acknowledging the other view", "Give a clear reason for your disagreement", "Suggest an alternative rather than just rejecting the idea"],
+        "answers": {
+          "q1": { "id": "D06-SOF-Q1", "text": "Honestly, I'm not fully convinced by that. I love art and culture, but I'm not sure it should be the government's job to pay for it. There are so many other priorities — healthcare, education, housing — and it's hard to justify spending public money on opera when people are struggling. I know some people disagree, but I'm not convinced it's the best use of taxpayers' money.", "functions": [ { "phrase": "I'm not fully convinced by that", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I have my doubts about that", "I'm somewhat sceptical of that view", "I'm not entirely persuaded by that"] }, { "phrase": "it's hard to justify", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["it's difficult to defend", "it seems hard to make the case for", "the justification is weak"] } ] },
+          "q2": { "id": "D06-SOF-Q2", "text": "That's a fair concern, and I do see the problem. But I still think there are other ways to fund the arts — private sponsorship, ticket sales, donations from businesses. I'd push back a little on the idea that government is the only solution. While I accept that losing some institutions would be sad, I don't think that automatically means the government should step in.", "functions": [ { "phrase": "I still think", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["my view remains that", "I continue to believe", "I'd still argue that"] }, { "phrase": "I'd push back a little on", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd challenge the assumption that", "I'd question the idea that", "I'd resist the claim that"] }, { "phrase": "While I accept that", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["Even granting that", "Whilst acknowledging that", "Conceding that"] } ] }
+        }
+      },
+      {
+        "name": "Luca", "level": "B2", "emoji": "👨‍🎓", "profileLabel": "Direct · Confident · Punchy",
+        "styleCard": ["Disagree directly and without excessive hedging", "Use 'I'd challenge that' or 'that's not right'", "Make your counterargument in one punchy sentence"],
+        "answers": {
+          "q1": { "id": "D06-LUC-Q1", "text": "No — I don't think that's the government's job. Art is a product. If people want it, they'll pay for it. If they won't pay, maybe the market is telling you something. Why should a nurse's taxes fund an opera that she'll never attend and can't afford to attend even if she wanted to? It doesn't make sense to me.", "functions": [ { "phrase": "I don't think that's the government's job", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["that's not something governments should be doing", "I'd question whether that's the state's role", "I'd resist the idea that government is responsible for this"] } ] },
+          "q2": { "id": "D06-LUC-Q2", "text": "If they can't survive without a subsidy, then maybe they shouldn't survive. That sounds harsh, but it's honest. There are plenty of arts organisations that fund themselves — music festivals, independent theatres, galleries. The ones that struggle are often the most elitist and the least connected to ordinary people. I'd challenge the assumption that 'cultural institution' automatically means 'deserving of public money'.", "functions": [ { "phrase": "I'd challenge the assumption that", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd question the idea that", "I'd dispute the claim that", "I'd push back against the notion that"] } ] }
+        }
+      },
+      {
+        "name": "Ines", "level": "B2→C1", "emoji": "👩‍🏫", "profileLabel": "Natural · Fluent · Upgrading",
+        "styleCard": ["Reframe the question before disagreeing — challenge the premise", "Use 'I'd take issue with' or 'I'd resist' to vary your disagreement phrases", "Propose an alternative framing, not just a rejection"],
+        "answers": {
+          "q1": { "id": "D06-INE-Q1", "text": "I'd actually push back on the framing of that a little. The question assumes that government funding is the natural default for arts support, but that's a culturally specific assumption — in many countries arts are funded primarily through philanthropy or mixed models. My concern with blanket government arts funding is that it tends to favour established, prestigious institutions over newer, more diverse forms of cultural expression. I'd resist the idea that this is the only or best solution.", "functions": [ { "phrase": "I'd actually push back on the framing", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd take issue with how the question is set up", "I'd challenge the assumption behind this", "I'd resist the terms of the question"] }, { "phrase": "My concern with", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["What I'd question about", "My objection to", "Where I'd push back on"] }, { "phrase": "I'd resist the idea that", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd dispute the claim that", "I'd challenge the assumption that", "I'd push back against the notion that"] } ] },
+          "q2": { "id": "D06-INE-Q2", "text": "It's a real concern and I wouldn't dismiss it. The collapse of major institutions would represent a genuine cultural loss. But I'd dispute the premise that government funding is the only viable mechanism. What I'd advocate is a mixed model — targeted tax incentives for cultural philanthropy, matched-funding schemes, a stronger expectation of corporate responsibility. The real question isn't whether to fund the arts, but how to do so without entrenching the elitist patterns that already exist.", "functions": [ { "phrase": "I wouldn't dismiss it", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["I take that concern seriously", "that's not something to ignore", "I recognise the weight of that"] }, { "phrase": "I'd dispute the premise that", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd contest the claim that", "I'd challenge the assumption that", "I'd take issue with the idea that"] }, { "phrase": "What I'd advocate is", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["My preferred approach would be", "What I'd propose is", "The solution I'd favour is"] } ] }
+        }
+      },
+      {
+        "name": "Maya", "level": "C1", "emoji": "👩‍🔬", "profileLabel": "Reflective · Hedging · Nuanced",
+        "styleCard": ["Disagree carefully — show you've considered the strongest version of the opposing view", "Use 'I'd want to interrogate' or 'I'd question whether'", "Your disagreement should feel like intellectual resistance, not emotional rejection"],
+        "answers": {
+          "q1": { "id": "D06-MAY-Q1", "text": "My position is more nuanced than a simple yes or no. I'd want to interrogate what we mean by government arts funding — who benefits, what gets funded, by what criteria. The empirical picture suggests that public arts subsidy disproportionately flows to established, high-culture institutions serving relatively affluent audiences. On those grounds, I'd question whether current patterns of arts funding are defensible, even if the principle of some public investment in culture is sound.", "functions": [ { "phrase": "I'd want to interrogate", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd want to examine critically", "I'd want to question carefully", "I'd want to scrutinise"] }, { "phrase": "I'd question whether", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd dispute whether", "I'd challenge the assumption that", "I'd want to ask whether"] }, { "phrase": "even if the principle is sound", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["whilst acknowledging the underlying principle", "even granting the general case", "even where the broad argument holds"] } ] },
+          "q2": { "id": "D06-MAY-Q2", "text": "The survival argument has real force, and I'd acknowledge that the collapse of major institutions would be a genuine loss. But I'd dispute the implicit conclusion that government subsidy is therefore necessary. The survival of institutions is not intrinsically valuable — what matters is whether they serve a broad cultural function. I'd push back on any argument that conflates institutional survival with cultural vitality. Many of the most vibrant cultural forms have emerged precisely outside the publicly funded mainstream.", "functions": [ { "phrase": "The survival argument has real force", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["That concern carries genuine weight", "The case for survival has merit", "That argument is not without substance"] }, { "phrase": "I'd dispute the implicit conclusion", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd contest what that seems to imply", "I'd challenge the inference that", "I'd push back against the conclusion that"] }, { "phrase": "I'd push back on any argument that conflates", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd resist any position that equates", "I'd challenge any view that treats as equivalent", "I'd dispute any claim that identifies"] } ] }
+        }
+      },
+      {
+        "name": "Theo", "level": "C1", "emoji": "👨‍💻", "profileLabel": "Analytical · Abstract · Academic",
+        "styleCard": ["Lead with a structural or systemic critique, not a personal one", "Use 'the premise is flawed' or 'the argument doesn't hold'", "Demonstrate that your disagreement is principled, not arbitrary"],
+        "answers": {
+          "q1": { "id": "D06-THE-Q1", "text": "I'd actually push back on the framing quite significantly. The arts-funding debate is typically presented as a binary — state subsidy versus market abandonment — but this obscures the real issue. My objection to unqualified government arts funding is democratic and distributional: it tends to privilege culturally established, socially exclusive institutions at the expense of forms of cultural expression that are more representative of actual population diversity. The argument for funding needs to be disaggregated — some institutions deserve support; others represent a transfer of resources to already-privileged groups.", "functions": [ { "phrase": "I'd actually push back on the framing", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd challenge the way the question is set up", "I'd take issue with the terms of the debate", "I'd resist how the issue has been framed"] }, { "phrase": "My objection is democratic and distributional", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["My concern is structural and political", "My critique operates at the level of principle", "My resistance is grounded in issues of equity"] }, { "phrase": "needs to be disaggregated", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["has to be broken down into its components", "can't be treated as a single question", "requires more careful differentiation"] } ] },
+          "q2": { "id": "D06-THE-Q2", "text": "The institutional survival argument is emotionally compelling but logically problematic. It conflates two separate questions: whether cultural goods have public value, and whether the specific institutions that currently exist are the best vehicles for delivering that value. I'd dispute both assumptions embedded in the survival argument: first, that existing institutions are irreplaceable; second, that public subsidy is the appropriate mechanism even if they are. A more defensible position would examine what cultural outcomes we actually want and then design funding mechanisms accordingly.", "functions": [ { "phrase": "emotionally compelling but logically problematic", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["intuitively appealing but flawed on examination", "rhetorically effective but analytically weak", "persuasive at first glance but questionable on reflection"] }, { "phrase": "I'd dispute both assumptions", "domain": "disagreeing", "colour": "#fb923c", "alternatives": ["I'd challenge both premises", "I'd contest both claims", "I'd push back on both propositions"] }, { "phrase": "A more defensible position would", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["A sounder approach would", "The more intellectually honest position would", "A better-grounded argument would"] } ] }
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "D07",
+    "domain": "suggesting",
+    "domainLabel": "Suggesting & Evaluating",
+    "domainColour": "#2dd4bf",
+    "topic": "Travel & Tourism",
+    "examPart": "Part 3",
+    "examiner": {
+      "q1": { "id": "D07-EX-Q1", "text": "A local council wants to develop their town to attract more tourists. Looking at these options — an arts centre, a food festival, improved transport, a heritage trail, and a hotel complex — which would be most effective?" },
+      "q2": { "id": "D07-EX-Q2", "text": "The council has a limited budget. Which single option would you recommend as the top priority?" }
+    },
+    "candidates": [
+      {
+        "name": "Sofia", "level": "B2", "emoji": "👩‍💼", "profileLabel": "Organised · Structured · Clear",
+        "styleCard": ["Signal your recommendation clearly: 'I'd suggest', 'I'd recommend'", "Give a reason for each option you mention", "End with a clear priority"],
+        "answers": {
+          "q1": { "id": "D07-SOF-Q1", "text": "I think transport links might be the most important starting point. My reasoning is that if people can't get there easily, none of the other options really matter. That said, I'd also suggest the food festival as a good short-term option — it's relatively cheap to organise and could attract visitors quickly. The arts centre is probably a longer-term investment, but it could really put the town on the map.", "functions": [ { "phrase": "My reasoning is that", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["The logic behind that is", "The reason I say that is", "I say this because"] }, { "phrase": "I'd also suggest", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["I'd also recommend", "another option worth considering is", "I'd also propose"] } ] },
+          "q2": { "id": "D07-SOF-Q2", "text": "If I had to choose just one, I'd go for the food festival. It doesn't need a big investment, it can happen quickly, and it creates an experience people want to come back for. Compared to building a hotel or arts centre, the festival is much lower risk. The downside is that it's seasonal, but I think that's worth accepting as a first step.", "functions": [ { "phrase": "If I had to choose just one", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["Were I to pick a single option", "Forced to prioritise", "If I'm narrowing it to one"] }, { "phrase": "I'd go for", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["I'd recommend", "my recommendation would be", "I'd advocate for"] }, { "phrase": "Compared to", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["In contrast to", "As opposed to", "Unlike"] } ] }
+        }
+      },
+      {
+        "name": "Luca", "level": "B2", "emoji": "👨‍🎓", "profileLabel": "Direct · Confident · Punchy",
+        "styleCard": ["Make your recommendation immediately and back it up", "Use 'the best bet is' or 'the smart move is'", "Be decisive — avoid presenting too many options"],
+        "answers": {
+          "q1": { "id": "D07-LUC-Q1", "text": "Transport, no question. Every other option is useless if nobody can get there. Fix the access problem first. After that, the food festival — cheapest, fastest, most flexible. Hotels and arts centres are multi-year projects that might not pay off. The heritage trail is free to walk but costs money to maintain. Food festival wins on every practical metric.", "functions": [ { "phrase": "no question", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["without doubt", "clearly", "obviously"] }, { "phrase": "wins on every practical metric", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["is the strongest option by every measure", "comes out ahead on all practical criteria", "is superior in every relevant respect"] } ] },
+          "q2": { "id": "D07-LUC-Q2", "text": "Food festival. Here's the simple version: low cost, quick to organise, generates buzz, repeatable, scalable. If it fails, you've lost very little. If it succeeds, you've got the evidence and the momentum to push for something bigger. That's how you manage risk on a limited budget. The other options all require committing large sums before you know if there's actually demand.", "functions": [ { "phrase": "That's how you manage risk", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["That's the sensible approach to risk management", "That's the right way to handle uncertainty", "That's good strategic thinking under constraint"] } ] }
+        }
+      },
+      {
+        "name": "Ines", "level": "B2→C1", "emoji": "👩‍🏫", "profileLabel": "Natural · Fluent · Upgrading",
+        "styleCard": ["Evaluate against a clear criterion before recommending", "Use 'from a ... perspective' to organise your evaluation", "Show trade-offs rather than simple winners"],
+        "answers": {
+          "q1": { "id": "D07-INE-Q1", "text": "I'd approach this by thinking about return on investment and timeline. Improved transport is, I'd argue, the highest-leverage intervention — without it, every other option is constrained. From a short-term impact perspective, the food festival makes the strongest case: it's scalable, cost-effective, and generates the kind of experiential memory that drives repeat visits. The heritage trail is worth considering too — minimal infrastructure, but with potential to position the town as culturally distinctive.", "functions": [ { "phrase": "I'd approach this by thinking about", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["My framework here would be", "The way I'd evaluate this is through", "I'd assess this against the criterion of"] }, { "phrase": "highest-leverage intervention", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["most impactful single option", "the move with the greatest multiplier effect", "the most strategically significant choice"] }, { "phrase": "From a ... perspective", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["Evaluated in terms of", "Judged on the basis of", "Through the lens of"] } ] },
+          "q2": { "id": "D07-INE-Q2", "text": "Given the budget constraint, I'd recommend the food festival — and here's the strategic rationale. Unlike the transport or hotel options, which require substantial capital with a longer return horizon, the festival can be piloted at modest cost and scaled based on demonstrated demand. It also functions as a market-testing mechanism: success provides the evidence base for securing further funding. The risk profile is considerably more favourable and the timeline to measurable impact is much shorter.", "functions": [ { "phrase": "here's the strategic rationale", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["and the reasoning runs as follows", "my justification is", "the logic behind this is"] }, { "phrase": "Unlike the ... options", "domain": "comparing", "colour": "#60a5fa", "alternatives": ["In contrast to the alternatives", "As opposed to the other choices", "By comparison with"] }, { "phrase": "functions as a market-testing mechanism", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["acts as a proof-of-concept", "serves as a demand-testing exercise", "operates as a low-risk pilot"] } ] }
+        }
+      },
+      {
+        "name": "Maya", "level": "C1", "emoji": "👩‍🔬", "profileLabel": "Reflective · Hedging · Nuanced",
+        "styleCard": ["Show that the right answer depends on which criteria you prioritise", "Use 'in the first instance' or 'in the longer term' to structure your evaluation", "Acknowledge the trade-offs in your recommendation"],
+        "answers": {
+          "q1": { "id": "D07-MAY-Q1", "text": "The most effective option is likely to depend on how you weight different objectives — immediate visitor numbers, long-term destination identity, economic multiplier effects. If the priority is quick impact on visitor numbers, the food festival probably has the edge. If the ambition is more about long-term destination positioning, the arts centre or heritage trail might be more transformative, even if slower to deliver. I'd be wary of recommending any single option without knowing more about the town's existing strengths.", "functions": [ { "phrase": "is likely to depend on how you weight", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["will hinge on which priorities you emphasise", "depends on what you prioritise", "varies according to the criteria you apply"] }, { "phrase": "probably has the edge", "domain": "speculating", "colour": "#a78bfa", "alternatives": ["would most likely come out ahead", "seems to have the advantage", "would probably prove most effective"] }, { "phrase": "I'd be wary of recommending", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["I'd resist recommending", "I'd hesitate to advocate for", "I'd be cautious about endorsing"] } ] },
+          "q2": { "id": "D07-MAY-Q2", "text": "Subject to the caveat that the best option really does depend on the town's specific context, I'd lean towards the food festival as the priority in a constrained budget scenario. The argument rests on risk-adjusted return: it requires low capital commitment, can generate measurable outcomes relatively quickly, and — crucially — a successful festival creates the evidence base that makes future investment in more capital-intensive options easier to secure. The downside is seasonality, which is real but manageable.", "functions": [ { "phrase": "Subject to the caveat that", "domain": "agreeing", "colour": "#4ade80", "alternatives": ["With the important qualification that", "Provided that we acknowledge", "On the understanding that"] }, { "phrase": "I'd lean towards", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["I'd incline towards", "I'd favour", "my preference would be"] }, { "phrase": "The argument rests on", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["The case is grounded in", "The reasoning depends on", "The justification derives from"] } ] }
+        }
+      },
+      {
+        "name": "Theo", "level": "C1", "emoji": "👨‍💻", "profileLabel": "Analytical · Abstract · Academic",
+        "styleCard": ["Frame your evaluation using a decision-making principle or framework", "Distinguish between first-order and second-order effects", "Show that your recommendation follows logically from your criteria"],
+        "answers": {
+          "q1": { "id": "D07-THE-Q1", "text": "I'd evaluate these options through the lens of strategic sequencing and infrastructure dependency. Improved transport is, unambiguously, a first-order investment: without it, demand for every other amenity is structurally constrained. The food festival occupies an interesting second tier — high marginal impact per unit of investment, low sunk cost risk, and the potential to generate network effects through social media exposure. The arts centre and hotel complex are both longer-horizon investments whose returns are highly sensitive to whether the access problem has first been solved.", "functions": [ { "phrase": "through the lens of", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["against the criterion of", "using the framework of", "evaluated by the principle of"] }, { "phrase": "a first-order investment", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["a foundational investment", "a prerequisite expenditure", "the primary enabling condition"] }, { "phrase": "highly sensitive to whether", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["entirely contingent on whether", "dependent on the prior question of whether", "meaningless unless"] } ] },
+          "q2": { "id": "D07-THE-Q2", "text": "Given the budget constraint, the food festival is the rational priority — not because it's the most ambitious option, but because it optimises across the most relevant criteria simultaneously: low capital requirement, short return horizon, scalability, and reversibility. That last criterion is often undervalued: the festival can be discontinued without sunk cost if it underperforms. The other options represent irreversible commitments of capital whose returns depend on conditions that can't yet be verified. Under uncertainty, optionality is valuable.", "functions": [ { "phrase": "optimises across the most relevant criteria simultaneously", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["scores well on all the key dimensions at once", "performs strongly across every relevant metric", "maximises value on the criteria that actually matter"] }, { "phrase": "Under uncertainty, optionality is valuable", "domain": "justifying", "colour": "#f59e0b", "alternatives": ["when outcomes are uncertain, flexibility matters", "in conditions of uncertainty, keeping options open has real value", "the ability to change course is an asset when the future is unclear"] } ] }
+        }
+      }
+    ]
+  },
+
+  {
+    "id": "D08",
+    "domain": "negotiating",
+    "domainLabel": "Negotiating & Inviting",
+    "domainColour": "#f472b6",
+    "topic": "Society & Change",
+    "examPart": "Part 3",
+    "examiner": {
+      "q1": { "id": "D08-EX-Q1", "text": "You're discussing what has been the biggest positive change in society over the last fifty years. The options are: gender equality, digital technology, medical advances, environmental awareness, and global travel. Which do you think has had the most impact?" },
+      "q2": { "id": "D08-EX-Q2", "text": "You need to reach a decision together. How might you move towards a shared conclusion?" }
+    },
+    "candidates": [
+      {
+        "name": "Sofia", "level": "B2", "emoji": "👩‍💼", "profileLabel": "Organised · Structured · Clear",
+        "styleCard": ["Invite your partner's view using a direct question", "Show you're open to changing your mind", "Use 'shall we' or 'what do you think about' to move the discussion forward"],
+        "answers": {
+          "q1": { "id": "D08-SOF-Q1", "text": "I'm drawn to medical advances, because improvements in life expectancy have affected everyone regardless of where you live. But I'm curious what you think — do you feel any of the others stand out more? I don't want to just push my own view if there's a stronger case for something else. What would you say?", "functions": [ { "phrase": "I'm drawn to", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["I'm inclined towards", "My instinct is to go for", "I find myself gravitating towards"] }, { "phrase": "I'm curious what you think", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I'd be interested in your perspective", "What's your take on this?", "I'd value your view"] }, { "phrase": "What would you say?", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["What's your view?", "Where do you stand on this?", "How do you see it?"] } ] },
+          "q2": { "id": "D08-SOF-Q2", "text": "OK, shall we try to narrow it down? I think we both agree that medical advances and gender equality are probably the strongest. So maybe we could decide between those two? I'd be happy to go with either, but if I had to choose I'd lean towards gender equality. But I'm open to being persuaded — what do you think would be the best way to look at it?", "functions": [ { "phrase": "shall we try to narrow it down?", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["how about we focus on the strongest options?", "should we try to reach a conclusion?", "can we start to move towards a decision?"] }, { "phrase": "I'd be happy to go with either", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I'm flexible on this", "I can see the merits of both", "either would work for me"] }, { "phrase": "I'm open to being persuaded", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I'm willing to reconsider", "I'm not fixed on that view", "I could be convinced otherwise"] } ] }
+        }
+      },
+      {
+        "name": "Luca", "level": "B2", "emoji": "👨‍🎓", "profileLabel": "Direct · Confident · Punchy",
+        "styleCard": ["State your view quickly, then immediately ask for theirs", "Use short inviting phrases: 'you?', 'what about you?'", "Drive the conversation forward — don't wait to be invited"],
+        "answers": {
+          "q1": { "id": "D08-LUC-Q1", "text": "Digital technology for me, easily. It's changed everything — how we communicate, work, learn, shop. Nothing else on that list comes close in terms of scale. But I know some people would go for medical advances or gender equality. What's your instinct? Do you think scale of impact matters most, or depth of change?", "functions": [ { "phrase": "What's your instinct?", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["What would you say?", "Where do you land on this?", "What's your gut feeling?"] }, { "phrase": "Do you think ... matters most", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["Would you say ... is more important?", "Is ... the key factor for you?", "How much weight would you give to...?"] } ] },
+          "q2": { "id": "D08-LUC-Q2", "text": "Right, let's decide. We've gone back and forth enough. I'll make a proposal: if you agree that scale of people affected is the main criterion, digital technology wins. If it's about depth of structural change, gender equality probably wins. Pick your criterion and that gives us our answer. What's it going to be?", "functions": [ { "phrase": "I'll make a proposal", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["Let me suggest a way forward", "Here's what I'd suggest", "Let me put something on the table"] }, { "phrase": "What's it going to be?", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["What would you prefer?", "Which direction would you go?", "Where do you stand?"] } ] }
+        }
+      },
+      {
+        "name": "Ines", "level": "B2→C1", "emoji": "👩‍🏫", "profileLabel": "Natural · Fluent · Upgrading",
+        "styleCard": ["Invite your partner's view in a thoughtful, genuine way", "Show intellectual openness — not just politeness", "Use 'I'm conscious I might be' to show self-awareness"],
+        "answers": {
+          "q1": { "id": "D08-INE-Q1", "text": "I'd be inclined to argue for gender equality on the grounds that it represents a structural change in how societies organise power, with knock-on effects across virtually every other domain. But I'm conscious I might be applying a particular value framework here. I'd genuinely want to hear whether you see a stronger case for digital technology or medical advances — both seem like plausible counterarguments and I don't think this is a simple question.", "functions": [ { "phrase": "I'd be inclined to argue for", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["I'd be disposed to advocate for", "My inclination would be to support", "I'd find myself arguing for"] }, { "phrase": "I'm conscious I might be", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I'm aware I may be", "I should acknowledge I might be", "I recognise I could be"] }, { "phrase": "I'd genuinely want to hear", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I'd be very interested to know", "I'd value your perspective on", "I'd like to understand your view on"] } ] },
+          "q2": { "id": "D08-INE-Q2", "text": "Perhaps the most productive route to a shared conclusion is to agree first on how we're measuring 'biggest impact'. If it's scale of people affected, medical advances may edge ahead. If it's depth of structural change, gender equality has the stronger case. I'd suggest we settle on one criterion rather than trying to weigh incommensurable factors against each other. I'm prepared to defer to your judgement on which feels most defensible — does that seem like a workable approach?", "functions": [ { "phrase": "Perhaps the most productive route", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["One constructive way to reach agreement", "A useful path towards a conclusion", "The most efficient way to get there"] }, { "phrase": "I'd suggest we settle on", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["I'd propose we agree on", "My suggestion would be to commit to", "I'd recommend we decide on"] }, { "phrase": "I'm prepared to defer to your judgement", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I'm happy to follow your lead", "I'll yield to your view on this", "I'd be comfortable going with your assessment"] }, { "phrase": "does that seem like a workable approach?", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["is that a direction you'd be comfortable with?", "would you be happy to proceed that way?", "does that feel like a reasonable way forward?"] } ] }
+        }
+      },
+      {
+        "name": "Maya", "level": "C1", "emoji": "👩‍🔬", "profileLabel": "Reflective · Hedging · Nuanced",
+        "styleCard": ["Show genuine intellectual openness, not just performative politeness", "Acknowledge the complexity before inviting your partner's view", "Use 'I'd genuinely welcome' or 'I'd value your perspective on this'"],
+        "answers": {
+          "q1": { "id": "D08-MAY-Q1", "text": "My instinct is towards gender equality, on the grounds that it represents the kind of deep structural shift that enables other changes to occur — it's not just a change in itself, it's a precondition for further change. But I hold that view with some tentativeness, and I'd genuinely welcome a challenge to it. The case for medical advances is compelling on purely quantitative grounds, and I'm not certain my preference isn't reflecting a particular political leaning. What's your read on this?", "functions": [ { "phrase": "I hold that view with some tentativeness", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I'm not entirely certain of that position", "I'd hold that view loosely", "I'm open to being challenged on that"] }, { "phrase": "I'd genuinely welcome a challenge to it", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I'd be interested to hear a counterargument", "I'd value having that view tested", "I'd appreciate a different perspective on this"] }, { "phrase": "What's your read on this?", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["How do you see it?", "What's your analysis?", "What's your perspective?"] } ] },
+          "q2": { "id": "D08-MAY-Q2", "text": "I think the most intellectually honest path to a conclusion is to make our evaluative framework explicit rather than talking past each other. We seem to be using different criteria — you may be prioritising scale; I'm giving more weight to structural depth. Neither is objectively correct. I'd suggest we agree on one framework and then apply it consistently. I'm genuinely flexible about which we choose — I'd rather reach a well-reasoned conclusion on shared terms than impose my preferred criterion.", "functions": [ { "phrase": "make our evaluative framework explicit", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["be transparent about the criteria we're using", "clarify the basis on which we're evaluating", "agree on what we're actually measuring"] }, { "phrase": "I'd suggest we agree on one framework", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["I'd propose we commit to one set of criteria", "my recommendation would be to settle on one approach", "I'd advocate for agreeing on a single standard"] }, { "phrase": "I'm genuinely flexible about", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I'm truly open about", "I have no strong preference between", "I can genuinely go either way on"] } ] }
+        }
+      },
+      {
+        "name": "Theo", "level": "C1", "emoji": "👨‍💻", "profileLabel": "Analytical · Abstract · Academic",
+        "styleCard": ["Invite your partner's view by identifying what their perspective might add", "Frame the negotiation as a collaborative analytical exercise", "Use 'I'd be interested in your assessment of' to sound academic and engaged"],
+        "answers": {
+          "q1": { "id": "D08-THE-Q1", "text": "My preliminary assessment favours gender equality, on the grounds that it operates as what one might call a structural multiplier — a change that doesn't merely improve one domain but reconfigures the conditions under which progress in all other domains occurs. Digital technology, by contrast, is primarily an amplifier of existing social structures rather than a transformer of them. But I recognise that's a contestable framing, and I'd be interested in your assessment of whether the distinction I'm drawing holds up under scrutiny.", "functions": [ { "phrase": "My preliminary assessment favours", "domain": "expressing_opinions", "colour": "#C9A961", "alternatives": ["My initial evaluation would support", "My tentative position is for", "My current view inclines towards"] }, { "phrase": "I'd be interested in your assessment of", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I'd value your analysis of", "I'd welcome your view on", "I'd be curious to hear your take on"] }, { "phrase": "whether the distinction I'm drawing holds up", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["whether that framing is defensible", "whether that argument survives scrutiny", "whether that distinction is as clear as I'm suggesting"] } ] },
+          "q2": { "id": "D08-THE-Q2", "text": "The most rigorous path to a shared conclusion would be to operationalise the key variable: what precisely do we mean by 'biggest positive change'? If we define it as maximum reduction in preventable human suffering, medical advances almost certainly win on quantitative grounds. If we define it as maximum expansion of human agency and self-determination, gender equality makes a strong case. I'd propose we choose one definition and apply it consistently — I'm indifferent between them analytically, so I'd defer to your preference on which frame to use.", "functions": [ { "phrase": "operationalise the key variable", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["define our terms precisely", "clarify exactly what we're measuring", "be specific about our criterion"] }, { "phrase": "I'd propose we choose one definition", "domain": "suggesting", "colour": "#2dd4bf", "alternatives": ["I'd suggest we settle on one criterion", "My recommendation would be to commit to one framework", "I'd advocate for agreeing on a single measure"] }, { "phrase": "I'm indifferent between them analytically", "domain": "negotiating", "colour": "#f472b6", "alternatives": ["I have no analytical preference between them", "both are equally defensible to me", "I can argue either position with equal conviction"] } ] }
+        }
+      }
+    ]
+  }
+]
