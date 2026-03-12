@@ -12,7 +12,7 @@ const VOICES = {
 };
 
 // ── CONFIG ────────────────────────────────────────────────────
-const API_KEY   = 'sk_1507a404b8158ccf77d90d88d765c29bd6c08c5a43febb9a';   // ← paste your key here
+const API_KEY   = '70111b8f9f678818cb4fca1c5e1d13a439b453d06699d37493577e194b201c9f';   // ← paste your key here
 const MODEL     = 'eleven_multilingual_v2';
 const OUTPUT    = 'F:\\audio';
 const DATA_FILE = './functional-speaking-5candidates.json';
