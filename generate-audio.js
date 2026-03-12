@@ -14,7 +14,7 @@ const VOICES = {
 // ── CONFIG ────────────────────────────────────────────────────
 const API_KEY   = 'sk_1507a404b8158ccf77d90d88d765c29bd6c08c5a43febb9a';   // ← paste your key here
 const MODEL     = 'eleven_multilingual_v2';
-const OUTPUT    = './audio';
+const OUTPUT    = 'F:\\audio';
 const DATA_FILE = './functional-speaking-5candidates.json';
 const DELAY_MS  = 500;   // pause between calls — prevents rate limiting
 
